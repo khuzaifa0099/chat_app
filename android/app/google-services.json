@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79471146412",
+    "project_id": "chat-application-be4fa",
+    "storage_bucket": "chat-application-be4fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79471146412:android:5c16eb32903c2b02a5f609",
+        "android_client_info": {
+          "package_name": "com.chat_app.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79471146412-m3ecbivr6cdnpg093qtgsctla09lgr5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnETjVOKNh6Fl2fm6nNSTukIT8umB-sfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79471146412-m3ecbivr6cdnpg093qtgsctla09lgr5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
